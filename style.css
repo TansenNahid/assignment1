@@ -12,7 +12,7 @@ body {
 }
 
 .flood-relief {
-    background-image: linear-gradient(rgba(148, 120, 120, 0.11), rgba(36, 4, 4, 0.164)), url(/images/donation13.jpg);
+    background-image: linear-gradient(rgba(148, 120, 120, 0.11), rgba(36, 4, 4, 0.164)), url(./images/donation13.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: aliceblue;
